@@ -1,0 +1,10 @@
+.place__description {
+    grid-area: paragraph;
+}
+
+@media (max-width: 480px) {
+    .place__description {
+        width: calc(100% - 16px*2);
+        margin: 0 auto;
+    }
+}

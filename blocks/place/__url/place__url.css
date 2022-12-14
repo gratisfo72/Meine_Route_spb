@@ -1,0 +1,11 @@
+.place__url {
+    grid-area: url;
+    align-self: flex-end;
+}
+
+@media (max-width: 480px) {
+    .place__url {
+        width: calc(100% - 16px*2);
+        margin: 0 auto;
+    }
+}

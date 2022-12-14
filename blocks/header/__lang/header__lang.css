@@ -1,0 +1,25 @@
+.header__lang {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: normal;
+    opacity: 1;
+    margin-left: 18px;
+    transition: opacity .5s ease-in-out;
+}
+
+.header__lang:visited {
+    color: white;
+}
+
+.header__lang:hover {
+    opacity: .8;
+}
+
+@media (max-width: 480px) {
+    .header__lang {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

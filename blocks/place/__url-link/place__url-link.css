@@ -1,0 +1,17 @@
+.place__url-link {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 22px;
+    text-align: left;
+    opacity: 1;
+    transition: opacity .5s ease-in-out;
+}
+
+.place__url-link:visited {
+    color: white;
+}
+
+.place__url-link:hover {
+    opacity: .8;
+}
