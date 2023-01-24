@@ -1,0 +1,22 @@
+.place__like-button {
+    margin: 28px 20px 30px auto;
+    background-image: url(../../../images/like_unaktive.svg);
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 22px 19px;
+    min-width: 22px;
+    height: 19px;
+    transition: opacity .2s ease-in-out;
+    border: none;
+}
+
+.place__like-button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+@media (max-width: 700px) {
+    .place__like-button {
+        margin: 30px 20px 27px auto;
+    }
+}

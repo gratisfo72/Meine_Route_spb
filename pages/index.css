@@ -6,9 +6,8 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang/header__lang.css);
-@import url(../blocks/header/__lang/_selected/header__lang_selected.css);
 @import url(../blocks/lead/lead.css);
-@import url(../blocks/lead/__map/lead__map.css);
+@import url(../blocks/lead/__introbar/lead__introbar.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
@@ -20,16 +19,28 @@
 @import url(../blocks/list/__span/list__span.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
+@import url(../blocks/people/people.css);
+@import url(../blocks/people/__container/people__container.css);
+
+@import url(../blocks/person/person.css);
+@import url(../blocks/person/__description/person__description.css);
+@import url(../blocks/person/__title/person__title.css);
+@import url(../blocks/person/__image/person__image.css);
+@import url(../blocks/person/__url/person__url.css);
+@import url(../blocks/person/__url-heading/person__url-heading.css);
+@import url(../blocks/person/__url-link/person__url-link.css);
+@import url(../blocks/person/__paragraph/person__paragraph.css);
+
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/__container/places__container.css);
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__description/place__description.css);
-@import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__url/place__url.css);
-@import url(../blocks/place/__url-heading/place__url-heading.css);
-@import url(../blocks/place/__url-link/place__url-link.css);
-@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__info/place__info.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__like-button/place__like-button.css);
+@import url(../blocks/place/__delete-button/place__delete-button.css);
+@import url(../blocks/place/__like-button/_active/place__like-button_active.css);
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);

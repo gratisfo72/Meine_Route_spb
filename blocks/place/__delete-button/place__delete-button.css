@@ -1,0 +1,18 @@
+.place__delete-button {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 18px 19px;
+    top: 20px;
+    right: 20px;
+    width: 18px;
+    height: 19px;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    background-image: url(../../../images/delete.svg);
+    transition: opacity .2s ease-in-out;
+}
+
+.place__delete-button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

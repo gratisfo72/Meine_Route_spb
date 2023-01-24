@@ -1,3 +1,2 @@
-# Meine_Route_spb
-
-https://gratisfo72.github.io/Meine_Route_spb/
+# Meine_Route
+Проект про Петербург, бары и людей
