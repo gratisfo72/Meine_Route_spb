@@ -3,7 +3,7 @@
 
 Проект доступен по [ссылке](https://gratisfo72.github.io/Meine_Route_spb/) 
 
-Макет в Figma по [ссылке](https://www.figma.com/file/6pgIzh0zidC7peR3oyCfDh/MeineRoutePrototype?node-id=1%3A2
+Макет в Figma по [ссылке](https://www.figma.com/file/6pgIzh0zidC7peR3oyCfDh/MeineRoutePrototype?node-id=1%3A2)
 ### Обзор
 * Реализована адаптивная верстка под десктопные и мобильные приложения
 * Проект выполнен в соответсвии с БЭМ подходом
